@@ -6,12 +6,12 @@ policy subject to adversarially corrupted feedback. Specifically,
 at each time-step, an adversary can perturb both the reward
 and state observations of the learner following the Huber
 contamination model. To defend against such data corruption,
-we propose BR-Async-Q: a novel, epoch-based, robust Qlearning
+we propose 𝙱𝚁-𝙰𝚜𝚢𝚗𝚌𝚀 : a novel, epoch-based, robust Qlearning
 algorithm built upon two key ideas: (i) partitioning
 the online data stream into batches to reduce variance, and
 (ii) constructing robust estimates of the Bellman optimality
 operator using such batched data. We prove a high-probability
-ℓ∞ error bound for BR-Async-Q that matches that for vanilla
+ℓ∞ error bound for 𝙱𝚁-𝙰𝚜𝚢𝚗𝚌𝚀 that matches that for vanilla
 Q-learning, up to a small additive term that scales with the
 fraction of corrupted samples. To our knowledge, this provides
 the first robustness guarantee for asynchronous Q-learning subject
