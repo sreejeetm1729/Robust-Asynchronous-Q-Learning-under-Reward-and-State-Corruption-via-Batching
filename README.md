@@ -25,8 +25,8 @@ bound on the corruption fraction is minimax optimal.
 <tr>
   <td>
     <img src="https://github.com/sreejeetm1729/Robust-Asynchronous-Q-Learning-under-Reward-and-State-Corruption-via-Batching/blob/main/Robust_BR-Async-Q.png" style="width:420px">
-    <img src="https://github.com/sreejeetm1729/Robust-Asynchronous-Q-Learning-under-Reward-and-State-Corruption-via-Batching/blob/main/Robust_BR_varying_variance.png" style="width:380px">
+    <img src="https://github.com/sreejeetm1729/Robust-Asynchronous-Q-Learning-under-Reward-and-State-Corruption-via-Batching/blob/main/Robust_BR_varying_variance.png" style="width:420px">
     <img src="https://github.com/sreejeetm1729/Robust-Asynchronous-Q-Learning-under-Reward-and-State-Corruption-via-Batching/blob/main/Vanilla_varying_epsilon.png" style="width:420px">
-    <img src="https://github.com/sreejeetm1729/Robust-Asynchronous-Q-Learning-under-Reward-and-State-Corruption-via-Batching/blob/main/Vanilla_varying_variance.png" style="width:380px">
+    <img src="https://github.com/sreejeetm1729/Robust-Asynchronous-Q-Learning-under-Reward-and-State-Corruption-via-Batching/blob/main/Vanilla_varying_variance.png" style="width:420px">
   </td>
 </tr>
