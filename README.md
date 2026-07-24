@@ -20,7 +20,7 @@ only rewards are corrupted, the dependence of our algorithm’s
 bound on the corruption fraction is minimax optimal.
 
 
-## Figure 1
+## Figures
 <table>
 <tr>
   <td>
@@ -32,9 +32,6 @@ bound on the corruption fraction is minimax optimal.
 </tr>
 </table>
 
-</br>
-
-## Figure 2
 <table>
 <tr>
   <td>
