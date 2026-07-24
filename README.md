@@ -30,7 +30,10 @@ bound on the corruption fraction is minimax optimal.
     <img src="https://github.com/sreejeetm1729/Robust-Asynchronous-Q-Learning-under-Reward-and-State-Corruption-via-Batching/blob/main/BR_Q_error_batch_size_low_corruption_preview_300dpi%20(1).png" style="width:400px">
   </td>
 </tr>
-  
+</table>
+
+</br>
+
 ## Figure 2
 <table>
 <tr>
