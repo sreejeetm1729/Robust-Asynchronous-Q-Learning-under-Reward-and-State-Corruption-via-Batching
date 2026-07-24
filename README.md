@@ -20,7 +20,18 @@ only rewards are corrupted, the dependence of our algorithm’s
 bound on the corruption fraction is minimax optimal.
 
 
-## Figures
+## Figure 1
+<table>
+<tr>
+  <td>
+    <img src="https://github.com/sreejeetm1729/Robust-Asynchronous-Q-Learning-under-Reward-and-State-Corruption-via-Batching/blob/main/Vanilla_Q_error_asymmetric_corruption_300dpi%20(1).png" style="width:400px">
+    <img src="https://github.com/sreejeetm1729/Robust-Asynchronous-Q-Learning-under-Reward-and-State-Corruption-via-Batching/blob/main/BR_Q_error_asymmetric_corruption_300dpi%20(1).png" style="width:400px">
+    <img src="https://github.com/sreejeetm1729/Robust-Asynchronous-Q-Learning-under-Reward-and-State-Corruption-via-Batching/blob/main/BR_Q_error_batch_size_high_corruption_preview_300dpi%20(1).png" style="width:400px">
+    <img src="https://github.com/sreejeetm1729/Robust-Asynchronous-Q-Learning-under-Reward-and-State-Corruption-via-Batching/blob/main/BR_Q_error_batch_size_low_corruption_preview_300dpi%20(1).png" style="width:400px">
+  </td>
+</tr>
+  
+## Figure 2
 <table>
 <tr>
   <td>
